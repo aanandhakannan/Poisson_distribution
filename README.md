@@ -1,4 +1,10 @@
 # Fitting Poisson  distribution
+
+NAME:AANANDHA KANNAN.S
+
+DATE:23-05-2025
+
+REG NO:212224040003
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
